@@ -2,13 +2,13 @@
 title: Margarita's Blog
 header-img: img/home-bg.png
 email: mkhodzka@gmail.com
-copyright_name: marharyta88
+copyright_name: MargaritaKhodzka
 description: > # this means to ignore newlines until "baseurl:"
   Blog on Learn
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
-github_username:  marharyta88
-learn_profile: marharyta88
+twitter_username:
+github_username:  MargaritaKhodzka
+learn_profile: MargaritaKhodzka
 email_username: mkhodzka@gmail.com
 
 # Build settings
